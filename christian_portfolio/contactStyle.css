@@ -1,0 +1,33 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+.wallpaper {
+    background-image: url("https://i.imgur.com/RhkutaY.png");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card {
+    background-color:#ededed;
+    display: block;
+    margin-top:40px;
+    margin-right: auto;
+    margin-bottom: 40px;
+    margin-left: auto;
+    
+}
+.card-img-top {
+    width: 100px;
+    height: auto;
+}
+.form-control-msg {
+    height: 125px;
+    width: 245px;
+}
+.btn {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
