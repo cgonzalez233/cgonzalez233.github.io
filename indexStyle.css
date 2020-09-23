@@ -2,6 +2,7 @@
 body, html {
     height: 100%;
     margin: 0;
+    font-family: 'Baloo Tammudu 2', cursive;
 }
 .wallpaper {
     background-image: url("https://i.imgur.com/7GkXjXq.jpg");
@@ -11,6 +12,10 @@ body, html {
     background-size: cover;
 }
 /* End Background */
+
+.fontFix {
+    margin-top: 6px
+}
 
 /* Card Sizing */
 .card-img-top{
