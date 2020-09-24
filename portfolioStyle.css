@@ -1,7 +1,7 @@
 body, html {
     height: 100%;
     margin: 0;
-    font-family: 'Baloo Tammudu 2', cursive;
+    font-family: 'Poppins', sans-serif;
 }
 .wallpaper {
     background-image: url("https://i.imgur.com/7GkXjXq.jpg");
@@ -9,6 +9,9 @@ body, html {
     background-position: center;
     background-repeat: repeat-y;
     background-size: cover;
+}
+.navbar {
+    font-family: 'Baloo Tammudu 2', cursive;
 }
 
 .fontFix {
