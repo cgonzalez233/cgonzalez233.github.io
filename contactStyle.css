@@ -1,3 +1,4 @@
+/* Background */
 body, html {
     height: 100%;
     margin: 0;
@@ -10,16 +11,25 @@ body, html {
     background-repeat: repeat-y;
     background-size: cover;
 }
+/* End Background */
 
+/* Navbar */
 .navbar {
     font-family: 'Baloo Tammudu 2', cursive;
 }
 .fontFix {
     margin-top: 6px
 }
+.githubLogo {
+    width: 20px;
+    height: auto;
+    margin-top: -5px;
+}
+
+/* End Navbar */
 
 
-/* Card Sizing */
+/* Card */
 .card {
     background-color:#ededed;
     display: block;
@@ -38,8 +48,13 @@ body, html {
     display: block;
     margin: 32px auto auto auto;
 }
-/* End Card Sizing */
-.githubLogo {
-    width: 20px;
-    height: auto;
+/* End Card */
+
+/* Footer */
+#sticky-footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
+/* End Footer */
