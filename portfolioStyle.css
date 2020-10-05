@@ -46,6 +46,10 @@ body, html {
     height: 250px;
     width: auto;
 }
+
+.row {
+    margin: 20px auto 20px auto;
+}
 /* End Card */
 
 /* Footer */
