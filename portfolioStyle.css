@@ -44,7 +44,8 @@ body, html {
 
 .portfolioImage {
     height: 250px;
-    width: auto;
+    width: 250px;
+    box-shadow: 1.5px 1.5px 6px black;
 }
 
 .row {
